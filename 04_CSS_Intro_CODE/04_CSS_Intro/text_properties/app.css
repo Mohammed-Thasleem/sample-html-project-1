@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    font-weight: normal;
+    text-decoration: green underline solid;
+    letter-spacing: 10px;
+    font-size: 70px;
+    font-family: verdana;
+}
+
+p {
+    line-height: 3;
+}
